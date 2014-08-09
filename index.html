@@ -1,0 +1,19 @@
+---
+layout: default
+title: communicable.me
+---
+
+<div id="home">
+  {% for post in site.posts %}
+    <article>
+      <div class="tags">on {{ post.tags | join: ", " }}&hellip;</div>
+      <a class="title" href="{{ post.url }}">
+        <h1>{{ post.title }}</h1>
+      </a>
+      <address>{{ post.quote-author }}</address>
+
+      {{ post.content }}
+
+    </article>
+  {% endfor %}
+</div>

@@ -1,0 +1,6 @@
+name: communicable.me
+url: http://communicable.me
+tagline: spread the word
+markdown: redcarpet
+pygments: true
+permalink: none

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article>
+  <div class="tags">on {{ page.tags | join: ", " }}&hellip;</div>
+  <h1>{{ page.title }}</h1>
+  {% unless page.quote-author == "" %}
+    <address>{{ page.quote-author }}</address>
+  {% endunless %}
+
+  {{ content }}
+
+  <div class="date">Posted on <time>{{ page.date | date: '%B %d, %Y' }}</time></div>
+</article>
