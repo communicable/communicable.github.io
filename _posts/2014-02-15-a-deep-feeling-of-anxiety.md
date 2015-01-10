@@ -5,7 +5,7 @@ date:   2014-02-15 10:00:00
 tags: [anxiety]
 quote-author: Edvard Munch
 ---
-<a href="http://en.wikipedia.org/wiki/The_Scream" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/en/f/f4/The_Scream.jpg" style="width: 280px; float: left; margin-right: 1em;"></a>
+<a href="http://en.wikipedia.org/wiki/The_Scream" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/440px-The_Scream.jpg" style="width: 280px; float: left; margin-right: 1em;"></a>
 
 For as long as _I_ can remember, I've suffered from a deep feeling of anxiety,
 too. It's always there at some level. Stress exacerbates it. At times, I am
