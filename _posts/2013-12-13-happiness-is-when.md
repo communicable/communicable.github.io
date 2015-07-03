@@ -19,7 +19,7 @@ husband, and an even worse father.
 
 What should you say? What should you do?
 
-What I did and said was lash out at the smallest perceived slight. I was a real
+What I did was lash out at the smallest perceived slight. I was a real
 joy to be around. I could suppress it for my public persona. But, if my stress
 levels rose, or if I was in my "safe" space, I really let loose. The rage was
 venomous. The bile putrid. And, most of it was aimed squarely at those most
