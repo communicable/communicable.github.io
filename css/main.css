@@ -28,6 +28,10 @@ a:hover {
   text-decoration: underline;
 }
 
+ul, ol {
+  margin-left: 1em;
+}
+
 .wrapper {
   min-height: 100%;
   height: auto !important;
