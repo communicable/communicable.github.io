@@ -9,4 +9,4 @@ As someone who consumes on at least one salad a day, I found Tamar Haspel's arti
 
 In the article, Mr. Haspel picks on chain restaurant salads in particular. But, as any self respecting dieter knows, restaurant salads are to be eaten with the dressing on the side, minus the tortilal chips and candied nuts. Plus, lettuce is not in salads for it's nutritional benefit. It's there for bulk, to help induce satiety.
 
-That said, the darker the green, the more nutritional benefit there is. Thus the improbably rise in kale's popularity - at least here in the Bay Area. But, that could just be a northern California thing.
+That said, the darker the green, the more nutritional benefit there is. Thus the improbable rise in kale's popularity - at least here in the Bay Area. But, that could just be a northern California thing.
