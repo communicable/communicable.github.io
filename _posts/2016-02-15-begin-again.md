@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Failure is simply the opportunity to begin again, this time more intelligently.
-date: 2015-09-05 01:01:00
+date: 2016-02-15 22:11:00
 tags: [mulligans]
 quote-author: Henry Ford
 ---
@@ -24,6 +24,6 @@ So, I'm a couple of weeks in and I have some observations:
 * The game is a fun way of getting sucked into staying on track.
 * The meal replacements mostly suck.
 * I'm not nearly as hungry as I thought I would be.
-* I'm surprised at how easy it is to drink 100+ ounces of water a day.
+* I'm surprised at how easy it is to drink 100+ ounces of water.
 
 Progress so far: 12 pounds down. Check back in a while to see if I was able to maintain such a low calorie diet.
