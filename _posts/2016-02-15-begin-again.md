@@ -16,9 +16,10 @@ Now, I'm trying a different program. It's called [Take Shape for Life](http://ww
 
 I'm supposed to eat six times a day: five meal replacements, and one "lean and green" meal. I'm supposed to drink 100 ounces of water a day. And, I'm supposed to check in with a health coach at least weekly.
 
-Frankly, I was pretty skeptical. The diet works out to less than 1,000 calories a day, which is [well below the recommended minimum caloric intake for men](https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/calories.htm). No wonder they tell you not to start exercising at first. You're not eating enough calories to have any to spend on working out.
+Frankly, I was pretty skeptical. The diet works out to less than 1,000 calories a day, which is well below [the recommended minimum caloric intake for men](https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/calories.htm). No wonder they tell you not to start exercising at first. You're not eating enough calories to have any to spend on working out.
 
 So, I'm a couple of weeks in and I have some observations:
+
 * My health coach is an amazingly positive person.
 * The game is a fun way of getting sucked into staying on track.
 * The meal replacements mostly suck.
